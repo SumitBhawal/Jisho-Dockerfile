@@ -5,6 +5,8 @@ Necessary Dockerfile for Jisho app
 
 
 Folder structure :
+###
+```
 src/
 ├── dockerfile/
 │   ├── composer
@@ -22,3 +24,5 @@ src/
 ├── nginx/
 │   └── nginx.conf
 └── docker-compose.yml
+```
+###
